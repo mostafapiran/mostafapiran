@@ -1,5 +1,6 @@
 # Mostafa Piran Shendershami 
-#### I'm an electronics engineer and I'm also very interested in [robotics] and machine learning, manufacturing is one of my life goals. I always need and love to learn more. I was born on April 3, 1994.
+#### I'm an electronics engineer and I'm also very interested in robotics and machine learning, manufacturing is one of my life goals. I always need and love to learn more. I was born on April 3, 1994.
+[My Cv](https://drive.google.com/file/d/1u--1Z94-zwkf3tgab87bLvPN3u1s28TP/view?usp=drive_link)
 
 
 <!--
