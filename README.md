@@ -4,7 +4,8 @@
 In addition to my technical capabilities, I am a dependable and creative professional with a strong work ethic and an artistic eye. My approach to problem-solving is characterized by critical thinking and efficient time management. I am known for my fun and enthusiastic attitude, making me a collaborative and energetic team member. My creative mindset is an asset that I bring to every organization, ensuring that I contribute innovative solutions and a fresh perspective to challenges.
 
 Overall, I offer a unique blend of technical proficiency and creative problem-solving skills, making me a valuable addition to any team or project.
-[My CV](https://drive.google.com/file/d/1u--1Z94-zwkf3tgab87bLvPN3u1s28TP/view?usp=drive_link)
+
+[My CV](https://github.com/mostafapiran/etc_space/blob/master/mostafa%20piran_edu%20(1).pdf)
 
 
 <!--
