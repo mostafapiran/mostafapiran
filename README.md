@@ -1,11 +1,11 @@
 # Mostafa Piran Shendershami 
-#### I am an electronics engineer born on April 3, 1994, with a profound interest in robotics, machine learning, and the pursuit of a lifelong goal in manufacturing. My passion for continuous learning drives me to stay at the forefront of emerging technologies. I possess a versatile skill set, which includes coding proficiency in C/C++ for embedded systems, MATLAB, and Python. My expertise extends to working with time series data and designing deep learning networks, as well as conceptualizing and constructing robotic systems.
+ I am an electronics engineer born on April 3, 1994, with a profound interest in robotics, machine learning, and the pursuit of a lifelong goal in manufacturing. My passion for continuous learning drives me to stay at the forefront of emerging technologies. I possess a versatile skill set, which includes coding proficiency in C/C++ for embedded systems, MATLAB, and Python. My expertise extends to working with time series data and designing deep learning networks, as well as conceptualizing and constructing robotic systems.
 
 In addition to my technical capabilities, I am a dependable and creative professional with a strong work ethic and an artistic eye. My approach to problem-solving is characterized by critical thinking and efficient time management. I am known for my fun and enthusiastic attitude, making me a collaborative and energetic team member. My creative mindset is an asset that I bring to every organization, ensuring that I contribute innovative solutions and a fresh perspective to challenges.
 
 Overall, I offer a unique blend of technical proficiency and creative problem-solving skills, making me a valuable addition to any team or project.
 
-[My CV](https://github.com/mostafapiran/etc_space/blob/master/mostafa%20piran_edu%20(1).pdf)
+⚡[My CV](https://github.com/mostafapiran/etc_space/blob/master/mostafa%20piran_edu%20(1).pdf)⚡
 
 
 <!--
