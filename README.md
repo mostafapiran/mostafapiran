@@ -1,6 +1,6 @@
 # Hi!😄
 ## I'm Mostafa Piran Shendershami 
-⚡[My CV](https://github.com/mostafapiran/etc_space/blob/master/mostafa%20piran_edu%20(1).pdf)⚡
+⚡My simple web page [repository](https://github.com/mostafapiran/S_webpage).⚡
 
 
 <!--
