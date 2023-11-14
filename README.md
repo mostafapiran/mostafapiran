@@ -1,7 +1,7 @@
 # Hi!😄
 ## I'm Mostafa Piran Shendershami 
-⚡My simple web page [repository](https://github.com/mostafapiran/S_webpage).⚡
-⚡My simple web app [repository](https://github.com/mostafapiran/CS50P_2023/tree/main/project).⚡
+- ⚡My simple web page [repository](https://github.com/mostafapiran/S_webpage).⚡
+- ⚡My simple web app [repository](https://github.com/mostafapiran/CS50P_2023/tree/main/project).⚡
 
 
 <!--
