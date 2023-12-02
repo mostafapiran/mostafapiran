@@ -5,8 +5,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mostafapiran/count.svg?"  />
+<div align="right">
+  <img src="https://profile-counter.glitch.me/mostafapiran/count.svg?"/>
 </div>
 
 ###
