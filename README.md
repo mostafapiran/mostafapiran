@@ -3,6 +3,14 @@
 - ⚡My simple web page [repository](https://github.com/mostafapiran/S_webpage).⚡(HTML, CSS, JS)
 - ⚡My simple web app [repository](https://github.com/mostafapiran/CS50P_2023/tree/main/project).⚡(Python, Flask, NLP)
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mostafapiran/count.svg?"  />
+</div>
+
+###
+
 
 <!--
 **mostafapiran/mostafapiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
