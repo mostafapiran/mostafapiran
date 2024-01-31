@@ -2,8 +2,8 @@
 I'm Mostafa Piran Shendershami 
 - ⚡My simple web page [repository](https://github.com/mostafapiran/S_webpage).⚡(HTML, CSS, JS)
 - ⚡My simple web app [repository](https://github.com/mostafapiran/CS50P_2023/tree/main/project).⚡(Python, Flask, NLP)
-- ⚡My personal experience in taking [CS50P 2023](https://github.com/mostafapiran/CS50P_2023) course at harvard university.⚡
-- ⚡My personal experience in taking [CS50X 2023](https://github.com/mostafapiran/CS50X_2023) course at harvard university.⚡
+- ⚡My personal experience in taking [CS50P 2023](https://github.com/mostafapiran/CS50P_2023) course at harvard university.⚡(Python)
+- ⚡My personal experience in taking [CS50X 2023](https://github.com/mostafapiran/CS50X_2023) course at harvard university.⚡(C/C++, Web)
 
 
 ![Views](https://komarev.com/ghpvc/?username=mostafapiran&color=blue)
