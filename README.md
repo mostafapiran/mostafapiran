@@ -10,6 +10,9 @@ I'm Mostafa Piran Shendershami
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/>
+   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="26" height="26"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/STMicroelectronics-Logo.svg" alt="stm" width="26" height="20"/>
+   <img src="https://github.com/file-icons/icons/blob/master/svg/AVR.svg" alt="AVR" width="26" height="26"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26" height="26"/>
@@ -20,7 +23,12 @@ I'm Mostafa Piran Shendershami
    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="26" height="26"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="26" height="26"/>
+   <img src="https://github.com/gilbarbara/logos/blob/main/logos/tensorflow.svg" alt="tensorflow" width="26" height="26"/>
+   <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="26" height="26"/>
 </p>
+
+
+
 
 
 <h3 align="left">Support:</h3>
