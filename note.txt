@@ -1,1 +1,5 @@
 https://www.electronicwings.com/explore
+
+https://www.kaggle.com/datasets/sojanprajapati/emg-signal-for-gesture-recognition/data
+https://www.kaggle.com/datasets/jjangdol/emg-data-for-gestures-data-set/data
+https://www.kaggle.com/datasets/mansibmursalin/ninapro-db1-full-dataset
