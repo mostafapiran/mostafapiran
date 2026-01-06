@@ -20,7 +20,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html" width="26" height="26"/></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"    alt="css" width="26" height="26"></img>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"></img>
-   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"                                 alt="flask" width="26" height="26"></img>
+   <img width="26" height="26" src="https://img.icons8.com/ios/50/flask.png"                                     alt="flask"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"                                         alt="git" width="26" height="26"></img>
    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"                                           alt="opencv" width="26" height="26"></img>
    <img src="https://github.com/gilbarbara/logos/blob/main/logos/tensorflow.svg"                                 alt="tensorflow" width="26" height="26"></img>
@@ -33,7 +33,6 @@
 
 <h3 align="left">Support:</h3>
 <p>   
-   <a href="https://coindrop.to/mostafa" target="_blank"><img src="https://coindrop.to/embed-button.png"                       height="50" width="210"></img></a>
-   <a href="https://www.buymeacoffee.com/mostafapiran">  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"></img></a>
-   <a href="http://www.coffeete.ir/mostafapiran">        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png"     height="50" width="210"></img></a>
+   <a href="https://coindrop.to/mostafa" target="_blank"> <img src="https://coindrop.to/embed-button.png"                       height="50" width="210"> </img> </a>
+   <a href="https://www.buymeacoffee.com/mostafapiran">   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"> </img> </a>
 </p>
